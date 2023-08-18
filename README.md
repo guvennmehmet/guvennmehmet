@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guvennmehmet&show_icons=true&locale=en" alt="guvennmehmet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guvennmehmet&" alt="guvennmehmet" /></p>
+
+---
+
+![snake gif](https://github.com/guvennmehmet/guvennmehmet/blob/output/github-contribution-grid-snake.gif)
