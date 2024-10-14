@@ -1,9 +1,8 @@
 <div align="center"><img src="https://cdn.quotesgram.com/img/38/83/1839700500-to-be-or-not-to-be-that-is-the-question-2.png" /></div>
 
 <h1 align="center">Hi 👋, I'm Mehmet Güven</h1>
-<h3 align="center">A passionate mobile developer from Türkiye</h3>
-<h4 align="center"> 🔭 I’m currently working on SwiftUI </h4> 
-<h4 align="center"> 🌱 I’m currently learning Flutter </h4> 
+<h3 align="center">A passionate mobile application developer from Türkiye</h3>
+<h4 align="center"> 🔭 I’m currently working on Flutter </h4> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guvennmehmet&label=Profile%20views&color=0e75b6&style=flat" alt="guvennmehmet" /> </p>
 
